@@ -11,5 +11,3 @@ Moi c'est mini
 for i in range(10):
   print(i)
   ```
-
-## test
